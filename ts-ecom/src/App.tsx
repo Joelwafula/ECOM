@@ -19,13 +19,7 @@ function App() {
     </>
   )
 
-  return (
-    <>
-     <div className="App">
-
-     </div>
-    </>
-  )
+  return content
 }
 
 export default App
